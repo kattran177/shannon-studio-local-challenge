@@ -79,6 +79,8 @@ Finally, we need to think about future growth. Could the core **AI classificatio
 
 This problem statement is suitable for intermediate to advanced levels, considering it requires the participants to grasp the concept of Machine Learning to confidently tackle this challenge.
 
+---
+
 ### References
 
 1.  [https://www.ul.ie/node/85167](https://www.ul.ie/node/85167)
