@@ -75,6 +75,9 @@ To make this a true ecosystem, we have to ensure the data flows both ways. How c
 Finally, we need to think about future growth. Could the core **AI classification model** be trained to detect other important pollutants beyond just microplastics? We should consider the architectural changes needed to allow the system to identify things like **pharmaceutical residues or heavy metals**, which would significantly broaden the use case of the entire platform for future environmental projects.
 
 ---
+### Difficulty Level
+
+This problem statement is suitable for intermediate to advanced levels, considering it requires the participants to grasp the concept of Machine Learning to confidently tackle this challenge.
 
 ### References
 
